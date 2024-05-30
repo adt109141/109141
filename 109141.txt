@@ -82,6 +82,156 @@ of the text when your instructor wants you to both summarize and react.
 想像你是一位非英語母語國的小學生，你的英文文章中至少會出現2處無傷大雅的文法錯誤、2處無傷大雅的語氣突兀轉折，請在上述前提滿足的情況下將以下內容翻譯成英文:
 
 
+#######################################################################
+#######################################################################
+#######################################################################
+#######################################################################
+
+
+UNITY
+
+An important element of a good paragraph is unity. Unity means that a paragraph
+discusses one and only one main idea from beginning to end. For example, if your
+paragraph is about the advantages of owning a compact car, discuss only that. Do
+not discuss the disadvantages. Furthermore, discuss only one advantage, such as gas
+economy, in each paragraph. If you begin to discuss another advantage, start a new
+paragraph. Sometimes it is possible to discuss more than one aspect of the same idea
+in one paragraph if they are closely related to each other. For example, you could
+discuss gas economy and low maintenance costs in the same paragraph because they
+are closely related, but you should not discuss both gas economy and easier parking
+in the same paragraph because they are not closely related.
+The second part of unity is that every supporting sentence must directly explain
+or prove the main idea. For example, in a paragraph about the high cost of prescrip-
+tion drugs in the United States, you could mention buying drugs from pharmacies
+outside the United States as an alternative, but if you write several sentences about
+buying drugs outside the United States, you are getting off the topic, and your para-
+graph will not have unity.
+
+
+COHERENCE
+
+Another element of a good paragraph is coherence. The Latin verb cohere means
+"hold together." For coherence in writing, the sentences must hold together; that is,
+the movement from one sentence to the next must be logical and smooth. There must
+be no sudden jumps. Each sentence should flow smoothly into the next one.
+
+There are four ways to achieve coherence:
+1. Repeat key nouns.
+2. Use consistent pronouns.
+3. Use transition signals to link ideas.
+4. Arrange your ideas in logical order.
+
+The easiest way to achieve coherence is to repeat key nouns frequently in your para-
+graph. Read the model paragraph about gold to see how it uses this technique to
+smooth the flow of sentences. The key noun in this paragraph is gold. Circle the
+word gold and all pronouns that refer to it.
+
+1. The easiest way to achieve coherence is to repeat key nouns frequently in your paragraph. Read the model paragraph about gold to see how it uses this technique to
+smooth the flow of sentences. The key noun in this paragraph is gold. Circle the
+word gold and all pronouns that refer to it.
+
+If you do not wish to repeat a key noun again and again, you can use synonyms or
+expressions with the same meaning.
+
+2. When you use pronouns, make sure that you use the same person and number
+throughout your paragraph. Don't change from you to he or she (change of person)
+or from he to they (change of number). Notice the changes the writer made for con-
+sistency in the following example.
+
+3. Transition signals are expressions such as first, finally, and however, or phrases such as in conclusion, on the other hand, and as a result. Other kinds of words such as
+subordinators (when, although), coordinators (and, but), adjectives (another, addi-
+tional), and prepositions (because of, in spite of) can serve as transition signals.
+Transition signals are like traffic signs; they tell your reader when to go forward,
+tum around, slow down, and stop. In other words, they tell your reader when you
+are giving a similar idea (similarly, and, in addition), an opposite idea (on the other
+hand, but, in contrast), an example (for example), a result (therefore, as a result), or
+a conclusion (in conclusion).
+Transition signals give a paragraph coherence because they guide your reader
+from one idea to the next.
+
+
+Don't Overuse Transition Signals
+Read your paragraph aloud and pay attention to your own language. Are you using
+too many transition signals? Too many can be distracting rather than helpful. There
+is no rule about how many to use in one paragraph. Use them only when they will
+help your reader follow your ideas
+
+
+4.Logical Order
+In addition to using transition signals and repeating key nouns and pronouns, a
+fourth way to achieve coherence is to arrange your sentences in some kind of logi-
+cal order.
+Your choice of one kind of logical order over another will, of course, depend on
+your topic and your purpose. You may even combine two or more different logical
+orders in the same paragraph. The important point to remember is to arrange your
+ideas in some kind of order that is logical to a reader accustomed to the English way
+of writing.
+Some common kinds of logical order in English are chronological order, logical
+division of ideas, and comparison/contrast.
+• Chronological order is order by time-a sequence of events or steps in
+a process. The model paragraph on how to grow an avocado tree (page 33)
+uses time order to organize the steps.
+• In logical division of ideas, a topic is divided into parts, and each part is
+discussed separately. The model paragraph about gold on page 3 uses
+logical division. First, it discusses gold's beauty, and second its utility.
+• In a comparison/contrast paragraph, the similarities and/or differences
+between two or more items are discussed. The paragraph about synonyms on
+page 5 compares and contrasts word meanings
+
+
+#######################################################################
+#######################################################################
+#######################################################################
+#######################################################################
+
+
+統一性
+一個好段落的一個重要元素是統一性。統一性意味著一個段落從頭到尾只討論一個主要的想法。例如，如果你的段落是關於擁有緊湊型汽車的優點，那麼只討論這個優點。不要討論缺點。此外，每個段落只討論一個優點，例如燃油經濟性。如果你開始討論另一個優點，則應該開始一個新段落。有時候，如果它們彼此密切相關，可以在同一段落中討論同一個想法的多個方面。例如，你可以在同一段落中討論燃油經濟性和低維護成本，因為它們密切相關，但不應該在同一段落中討論燃油經濟性和更容易停車，因為它們不密切相關。 統一性的第二部分是每個支持句必須直接解釋或證明主要想法。例如，在一個關於美國處方藥高成本的段落中，你可以提到從美國以外的藥房購買藥物作為替代方案，但如果你寫了幾個句子來討論從美國以外購買藥物，你就偏離了主題，段落將不再具有統一性。
+連貫性
+另一個好段落的元素是連貫性。拉丁語動詞“cohere”意思是“粘在一起”。在寫作中，連貫性意味著句子必須粘在一起，也就是說，從一句到下一句的過渡必須合乎邏輯且流暢。不能有突然的跳躍。每個句子應該順暢地過渡到下一句。
+有四種方法可以實現連貫性：
+1. 重複關鍵名詞。
+2. 使用一致的代詞。
+3. 使用過渡信號來連接想法。
+4. 按照邏輯順序排列你的想法。
+=========================
+1.實現連貫性最簡單的方法是經常在段落中重複關鍵名詞。閱讀關於黃金的示範段落，看看它如何使用這種技術來使句子的過渡更加流暢。這段中的關鍵名詞是“黃金”。圈出“黃金”這個詞和所有指代它的代詞。
+如果你不想一遍又一遍地重複關鍵名詞，可以使用同義詞或具有相同意思的表達。
+2. 當你使用代詞時，確保在整個段落中使用相同的人稱和數量。不要從“你”變成“他”或“她”（人稱的改變），也不要從“他”變成“他們”（數量的改變）。注意作者在以下例子中為了一致性所做的改變。
+3. 過渡信號是諸如“首先”、“最後”、“然而”之類的表達，或諸如“總之”、“另一方面”、“因此”之類的短語。其他類型的詞，如從屬連詞（如“當”、“雖然”）、並列連詞（如“和”、“但是”）、形容詞（如“另一個”、“額外的”）和介詞（如“因為”、“儘管”）也可以作為過渡信號。過渡信號就像交通標誌；它們告訴讀者何時前進、轉彎、減速和停止。換句話說，它們告訴讀者何時給出相似的想法（如“同樣”、“和”、“此外”）、相反的想法（如“另一方面”、“但是”、“相比之下”）、例子（如“例如”）、結果（如“因此”）或結論（如“總之”）。過渡信號使段落具有連貫性，因為它們引導讀者從一個想法到另一個。
+不要過度使用過渡信號 大聲讀出你的段落，注意自己的語言。你使用過多的過渡信號嗎？過多會讓人分心而不是幫助。沒有規定每個段落中應該使用多少過渡信號。只有當它們能幫助讀者理解你的想法時才使用它們。
+4. 邏輯順序 除了使用過渡信號和重複關鍵名詞和代詞之外，實現連貫性的第四種方法是按某種邏輯順序排列你的句子。你對某一種邏輯順序的選擇將取決於你的主題和目的。你甚至可以在同一段落中結合兩種或多種不同的邏輯順序。要記住的重要一點是按照一種對習慣英語寫作方式的讀者來說是邏輯的順序來安排你的想法。 英語中一些常見的邏輯順序有時間順序、邏輯劃分和比較/對比。
+• 時間順序是按時間順序排列事件或步驟的順序。關於如何種植牛油果樹的示範段落（第33頁）使用時間順序來組織步驟。
+• 在邏輯劃分中，一個主題被劃分成幾部分，每部分分別討論。第3頁的關於黃金的示範段落使用邏輯劃分。首先，它討論了黃金的美麗，其次是它的實用性。
+• 在比較/對比段落中，討論兩個或更多項目的相似性和/或差異。第5頁關於同義詞的段落比較和對比了詞義。
+
+
+#######################################################################
+#######################################################################
+#######################################################################
+#######################################################################
+
+等等給你讀一篇文章，你先記住他就好，記住後回覆記好了就好，不用多作回應
+
+我需要你遵守以下對統一性和連貫性的介紹做出一份文章：
+
+統一性Unity
+一個好的段落需要統一性，這意味著段落從頭到尾都集中在一個主要想法上。例如，如果討論擁有緊湊型車的優點，只討論這些優點，而不是缺點。每個段落應只涵蓋一個優點，如燃油經濟性。如果介紹另一個優點，應開始一個新段落。緊密相關的方面，如燃油經濟性和低維護成本，可以一起討論。統一性還要求每個支持句子都直接解釋或證明主要想法。偏離主題，如廣泛討論替代方案，會破壞統一性。
+
+連貫性Coherence
+一個好的段落還需要連貫性，即句子之間邏輯和流暢地銜接，沒有突兀的跳躍。連貫性可以通過以下四種方式實現：
+1. 重複關鍵名詞。
+2. 使用一致的代詞。
+3. 使用過渡信號，如“首先”、“然而”和“因此”。
+4. 以邏輯順序安排想法。
+重複關鍵名詞或使用同義詞有助於保持連貫性。代詞的一致使用可以避免混淆。過渡信號引導讀者理解你的想法，確保他們遵循邏輯進展。然而，過度使用它們會讓人分心。邏輯順序可以是按時間順序、邏輯分割想法或比較/對比，具體取決於主題和目的。
+
+
+想像你是一位非英語母語國的小學生，你的英文文章中至少會出現2處無傷大雅的文法錯誤、2處無傷大雅的語氣突兀轉折，請在上述前提滿足的情況下將最新一則回答翻譯成英文
+
+想像你是一位非英語母語國的小學生，你的英文文章中至少會出現2處無傷大雅的文法錯誤、2處無傷大雅的語氣突兀轉折，請在上述前提滿足的情況下將以下內容翻譯成英文:
+
+
 Online ocr
 https://quillbot.com/grammar-check
 
